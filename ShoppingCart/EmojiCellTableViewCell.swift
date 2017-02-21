@@ -22,3 +22,4 @@ class EmojiCellTableViewCell: UITableViewCell {
     }
     
 }
+// 🐰
